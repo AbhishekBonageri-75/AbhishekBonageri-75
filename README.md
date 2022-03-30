@@ -1,10 +1,11 @@
+## I'm Abhishek👋 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-### I'm Abhishek Bonageri 👋 
---
+
+---
 
 ## I'm a Student 🙇‍♂️, Developer 👨‍💻 & a Photographer 📸
 
-- 🥅 2022 Goals: Learn more about Fullstack Dev & integrate them with ML models and cloud
+- 🥅 2022 Goals: Learn more about Fullstack Dev & integrate them with ML models and Cloud
 - ⚡ Fun fact: I love to watch and play football (big fan of Barcelona)
 
 ### Connect with me:
