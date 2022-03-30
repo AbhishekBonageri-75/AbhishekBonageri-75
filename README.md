@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abhishek
 <a href="abhishekb.netlify.app" class="button">Portfolio</a>
 <input class="button" type="submit" value="Portfolio">
-<button class="button" type="submit">Post comment (button)</button>
+
 ---
 ### About me - 
 I'm a Student 🙇‍♂️, -   Developer 👨‍💻  - &  a Photographer 📸<br>
