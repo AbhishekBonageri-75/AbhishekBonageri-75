@@ -12,7 +12,8 @@ currently pursuing masters in computer science at Illinois Tech,Chicago
 
 
 ### Skills
-<a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<!-- <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ---
 
 
