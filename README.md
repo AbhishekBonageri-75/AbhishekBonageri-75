@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abhishek
 ![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I'm a Student 🙇‍♂️, -   Developer 👨‍💻  - &  a Photographer 📸
+I'm a Student 🙇‍♂️, -   Developer 👨‍💻  - &  a Photographer 📸<br>
 currently pursuing masters in computer science at Illinois Tech,Chicago
 
 
