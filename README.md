@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Abhishek
-<a href="https://abhishekb.netlify.app/" target= "_blank" class="button">Portfolio</a>
+[![Gmail Badge](https://img.shields.io/badge/-abonageri@hawk.iit.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abonageri@hawk.iit.edu)](mailto:abonageri@hawk.iit.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-rajk3770-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/rajk3770/) [![Github Badge](https://img.shields.io/badge/-rajk3770-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rajk3770/)](https://www.github.com/rajk3770/) [![Twitter Badge](https://img.shields.io/badge/-rajk3770-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rajk3770/)](https://www.twitter.com/rajk3770/)
 ---
-### About me - 
+About me - 
 I'm a Student 🙇‍♂️, -   Developer 👨‍💻  - &  a Photographer 📸<br>
 currently pursuing masters in computer science at Illinois Tech,Chicago
 ---
