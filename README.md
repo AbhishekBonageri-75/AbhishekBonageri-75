@@ -25,5 +25,5 @@ currently pursuing masters in computer science at Illinois Tech,Chicago
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhishekBonageri-75)  
 
-![GitHub metrics](https://metrics.lecoq.io/AbhishekBonageri-75)  
+
 
