@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abhishek
-<a href="https://abhishekb.netlify.app/" class="button">Portfolio</a>
-<input class="button" type="submit" value="Portfolio">
+<a href="https://abhishekb.netlify.app/" target= "_blank" class="button">Portfolio</a>
+
 
 ---
 ### About me - 
