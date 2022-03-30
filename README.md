@@ -13,9 +13,10 @@ currently pursuing masters in computer science at Illinois Tech,Chicago
 
 ### Skills
 <!-- <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JAVA]() ![JAVASCRIPT]() ![HTML]() ![CSS]() 
+![REACT JS]() ![NODE JS]() ![MySql]()  ![MongoDB]() ![PostgreSql]() ![GCP (Essentials)]() ![SpringBoot]() ![Hibernate]() ![Git]() ![Docker]() 
+![Jenkins]() ![Postman]() ![CI/CD]() ![Junit]()
 ---
-
 
 ### My GitHub stats
 ![Profile views](https://gpvc.arturio.dev/AbhishekBonageri-75) 
