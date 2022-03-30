@@ -1,16 +1,21 @@
 ### Hi there 👋, I'm Abhishek
-
 [![General badge](https://img.shields.io/badge/🔗-Portfolio-<COLOR>.svg)](https://abhishekb.netlify.app/) [![Gmail Badge](https://img.shields.io/badge/-abonageri@hawk.iit.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abonageri@hawk.iit.edu)](mailto:abonageri@hawk.iit.edu) 
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek_bonageri-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-bonageri/)](https://www.linkedin.com/in/abhishek-bonageri/) 
  [![Github Badge](https://img.shields.io/badge/-AbhishekBonageri75-grey?style=flat&logo=github&logoColor=white&link=https://github.com//AbhishekBonageri-75)](https://www.github.com/AbhishekBonageri-75/)
 ---
-<p>About me
-I'm a Student 🙇‍♂️, -   Developer 👨‍💻  - &  a Photographer 📸<br>
-currently pursuing masters in computer science at Illinois Tech,Chicago</p>
----
-### Skills
 
+
+About me
+I'm a Student 🙇‍♂️, -   Developer 👨‍💻  - &  a Photographer 📸<br>
+currently pursuing masters in computer science at Illinois Tech,Chicago
 ---
+
+
+### Skills
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+---
+
+
 ### My GitHub stats
 ![Profile views](https://gpvc.arturio.dev/AbhishekBonageri-75) 
 
