@@ -12,7 +12,7 @@ currently pursuing masters in computer science at Illinois Tech,Chicago
 
 
 ### Skills
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white]
 ---
 
 
