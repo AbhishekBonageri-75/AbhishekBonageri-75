@@ -35,7 +35,7 @@ currently pursuing masters in computer science at Illinois Tech,Chicago
 ## My GitHub stats
 ![Profile views](https://gpvc.arturio.dev/AbhishekBonageri-75) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekBonageri-75&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekBonageri-75&show_icons=true&count_private=true)   -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhishekBonageri-75)  
 
