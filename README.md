@@ -36,7 +36,7 @@ currently pursuing masters in computer science at Illinois Tech,Chicago
 ![Profile views](https://gpvc.arturio.dev/AbhishekBonageri-75) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekBonageri-75&show_icons=true&count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBonageri-75&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBonageri-75&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhishekBonageri-75)   -->
 
